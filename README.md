@@ -12,9 +12,7 @@ Game.Earn(number)
 
 //make sure to keep the parentases
 
-//and yeah thats about it!
-
-`
+//and yeah thats about it!`
 
 DISCLAMER this works on [this](http://orteil.dashnet.org/cookieclicker/) version of cookie clicker
 
