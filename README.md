@@ -1,15 +1,16 @@
 ## Earth's crackhead vent
-Welcome, this is a sets site, ima use it to screw around and learn about HTML and C, if you want you can check my instagram(https://www.youtube.com/watch?v=dQw4w9WgXcQ) and yea 
+Welcome, this is a sets site, ima use it to screw around and learn about HTML and C, if you want you can check my [instagram](https://www.youtube.com/watch?v=dQw4w9WgXcQ) and yea 
 
 ### Also heres a cookie clicker cheat lol
 right click go into inspect>Consle
 in consle, insert this 
-'Game.Earn(number)
+'
+Game.Earn(number)
 //make the number whatever you want 
 //make sure to keep the parentases
 //and yeah thats about it!
 '
-DISCLAMER this works on this(http://orteil.dashnet.org/cookieclicker/) version of cookie clicker
+DISCLAMER this works on [this](http://orteil.dashnet.org/cookieclicker/) version of cookie clicker
 thanks for being here
 
 
@@ -30,7 +31,7 @@ thanks for being here
 
 
 
-###this is all of github's stuff so I dont forget it
+### this is all of github's stuff so I dont forget it
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Earthvirgo10/Earthvirgo10.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
