@@ -4,14 +4,14 @@ Welcome, this is a sets site, ima use it to screw around and learn about HTML an
 ### Also heres a cookie clicker cheat lol
 right click go into inspect>Consle
 in consle, insert this 
-'
-Game.Earn(number)
+`Game.Earn(number)
 //make the number whatever you want 
 //make sure to keep the parentases
-//and yeah thats about it!
-'
+//and yeah thats about it!`
+
 DISCLAMER this works on [this](http://orteil.dashnet.org/cookieclicker/) version of cookie clicker
-thanks for being here
+
+Also, thanks for being here
 
 
 
